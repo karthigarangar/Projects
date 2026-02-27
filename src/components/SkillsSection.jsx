@@ -5,12 +5,15 @@ const skillCategories = [
   {
     title: "Frontend",
     skills: [
+      { name: "Java", level: 70 },
       { name: "HTML & CSS", level: 85 },
       { name: "JavaScript", level: 75 },
       { name: "React", level: 70 },
       { name: "TypeScript", level: 60 },
       { name: "Tailwind CSS", level: 80 },
-      { name: "Java", level: 70 },
+      { name: "Ant Design", level: 50 },
+      { name: "Material UI", level: 40 },
+      
     ],
   },
   {
